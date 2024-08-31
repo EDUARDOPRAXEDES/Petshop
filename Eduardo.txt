@@ -1,3 +1,7 @@
 Eduardo Praxedes
 Aula do sabado 
 Aula de Git 
+GitCommit 
+HTML 
+Css 
+Java
